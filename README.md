@@ -12,6 +12,7 @@
 - [Combinations of multiple camera movements](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#combinations-of-multiple-camera-movements)
 - [Multiple dynamic objects](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#multiple-dynamic-objects)
 - [Multiple motion strength](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#multiple-motion-strength)
+- [Experiment on DiT base model (Seaweed)](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#experiment-on-dit-base-model-seaweed)
 
 
 
