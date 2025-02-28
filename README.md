@@ -1,6 +1,6 @@
-# I2VControl-Camera
+# I2VControl-Camera 【 ICLR 2025 】
 
-### 【 ICLR 2025 】I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength
+### I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength
 
 > [Paper](https://arxiv.org/abs/2411.06525) | [Project Page](https://wanquanf.github.io/I2VControlCamera) | [Youtube](None) | [Bilibili](None)<br>
 > [Wanquan Feng](https://wanquanf.github.io)<sup style="color: #ef4444">✉️</sup>, Jiawei Liu, Pengqi Tu, Tianhao Qi, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He <br>
