@@ -10,7 +10,7 @@
 e propose I2VControl-Camera, a novel camera control method for image-to-video
 generation, offering high control precision and adjustable motion strength.
 <p align="center">
-<img src="assets/teaser_1.png" width="100%">
+<img src="assets/teaser_1.jpg" width="100%">
 </p>
 
 
