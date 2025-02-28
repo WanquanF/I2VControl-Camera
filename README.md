@@ -10,7 +10,9 @@
 
 
 
-## Gallery
+## Visual Results
+
+### Gallery
 
 For each sample, we manually set the camera movement and adjust it to a suitable motion strength value. 
 
@@ -81,7 +83,7 @@ The first column is the original input image, the second column is the camera mo
 
 
 
-## Pixel-level Control & Visual Comparisons
+### Pixel-level Control & Visual Comparisons
 
 We show our camera control results with ground truth preview here, which demonstrates our pixel-level control capabilities.
 
@@ -115,7 +117,7 @@ We also list the results of the comparing methods for the qualitative comparison
 </table>
 
 
-## Combinations of multiple camera movements
+### Combinations of multiple camera movements
 
 The following samples contain combinations of multiple camera movements.
 
@@ -150,7 +152,7 @@ The following samples contain combinations of multiple camera movements.
 </table>
 
 
-## Multiple dynamic objects
+### Multiple dynamic objects
 
 The following samples contain multiple dynamic objects, where our method can still achieve precise control and natural dynamics.
 
@@ -180,7 +182,7 @@ The following samples contain multiple dynamic objects, where our method can sti
 </table>
 
 
-## Multiple motion strength
+### Multiple motion strength
 
 We show the results under different motion strength. It is evident that as the motion strength increases, the amplitude of the motions enlarged and shows a direct positive correlation with the set values of motion strength.
 
@@ -223,7 +225,7 @@ We show the results under different motion strength. It is evident that as the m
 
 
 
-## Experiment on DiT base model (Seaweed)
+### Experiment on DiT base model (Seaweed)
 
 We present some results on another base model, Seaweed, where the results demonstrates the applicability of our method to any base model.
 
@@ -255,7 +257,7 @@ We present some results on another base model, Seaweed, where the results demons
 ## Citation 💖
 If you find our work useful for your research, welcome to cite our work using the following BibTeX:
 ```bibtex
-@article{feng2025i2vcontrolcamera,
+@article{i2vcontrolcamera,
   title={I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength},
   author={Feng, Wanquan and Liu, Jiawei and Tu, Pengqi and Qi, Tianhao and Sun, Mingzhen and Ma, Tianxiang and Zhao, Songtao and Zhou, Siyu and He, Qian},
   booktitle={The Tenth International Conference on Learning Representations, (ICLR)},
