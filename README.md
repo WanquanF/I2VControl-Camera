@@ -5,6 +5,15 @@
 - [Paper](https://arxiv.org/abs/2411.06525) | [Project Page](https://wanquanf.github.io/I2VControlCamera) | [Youtube](None) | [Bilibili](None)
 -  [Wanquan Feng](https://wanquanf.github.io)<sup style="color: #ef4444">✉️</sup>, Jiawei Liu, Pengqi Tu, Tianhao Qi, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He
 
+
+##  🌼 Overview
+e propose I2VControl-Camera, a novel camera control method for image-to-video
+generation, offering high control precision and adjustable motion strength.
+<p align="center">
+<img src="assets/teaser_1.png" width="100%">
+</p>
+
+
 **NOTICE: We will release the code and checkpoints (trained on an open-source I2V foundational model) upon obtaining corporate approval. In the meantime, let's first take a look at the results:**
 
 - [Gallery](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#gallery)
