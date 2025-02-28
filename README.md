@@ -5,7 +5,7 @@
 - [Paper](https://arxiv.org/abs/2411.06525) | [Project Page](https://wanquanf.github.io/I2VControlCamera) | [Youtube](None) | [Bilibili](None)
 -  [Wanquan Feng](https://wanquanf.github.io)<sup style="color: #ef4444">✉️</sup>, Jiawei Liu, Pengqi Tu, Tianhao Qi, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He
 
-**We will release the code and checkpoints (trained on an open-source I2V base model) upon obtaining corporate policy approval. Before that, let's take a look at the results firstly :)**
+**NOTICE : We will release the code and checkpoints (trained on an open-source I2V base model) upon obtaining corporate policy approval. Before that, let's take a look at the results firstly :)**
 
 ## Gallery
 
