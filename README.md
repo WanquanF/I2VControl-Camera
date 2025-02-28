@@ -8,6 +8,10 @@
 **NOTICE: We will release the code and checkpoints (trained on an open-source I2V foundational model) upon obtaining corporate approval. In the meantime, let's first take a look at the results:**
 
 - [Gallery](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#gallery)
+- [Pixel-level Control & Visual Comparisons](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#pixel-level-control--visual-comparisons)
+- [Combinations of multiple camera movements](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#combinations-of-multiple-camera-movements)
+- [Multiple dynamic objects](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#multiple-dynamic-objects)
+- [Multiple motion strength](https://github.com/WanquanF/I2VControl-Camera?tab=readme-ov-file#multiple-motion-strength)
 
 
 
