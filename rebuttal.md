@@ -16,22 +16,22 @@ We also list the results of the comparing methods for the qualitative comparison
     <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/004-3.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/004-3.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/006-2.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/006-2.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/007-3.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/007-3.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/011-0.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/011-0.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241001223430.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241001223430.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241002000913.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241002000913.gif"></td>
   </tr>
 </table>
 
@@ -50,23 +50,23 @@ The following samples contain combinations of multiple camera movements.
   </tr>
   <tr>
     <th width=20% style="text-align:center">move left + pan right + move up + tilt down</th>
-    <td colspan="4" ><img src="gif/pixel/20241002002519.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241002002519.gif"></td>
   </tr>
   <tr>
     <th width=20% style="text-align:center">move left + pan right</th>
-    <td colspan="4" ><img src="gif/pixel/20240906132533.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20240906132533.gif"></td>
   </tr>
   <tr>
     <th width=20% style="text-align:center">rotate + move up + tilt down</th>
-    <td colspan="4" ><img src="gif/pixel/20241120012823.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120012823.gif"></td>
   </tr>
   <tr>
     <th width=20% style="text-align:center">rotate + zoom in</th>
-    <td colspan="4" ><img src="gif/pixel/20241120011336.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120011336.gif"></td>
   </tr>
   <tr>
     <th width=20% style="text-align:center">rotate + pan right</th>
-    <td colspan="4" ><img src="gif/pixel/20241120015213.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120015213.gif"></td>
   </tr>
 </table>
 
@@ -84,19 +84,19 @@ The following samples contain multiple dynamic objects, where our method can sti
     <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241120024444.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120024444.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241120030823.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120030823.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241120034631.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120034631.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241120041540.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241120041540.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/20241121033649.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/20241121033649.gif"></td>
   </tr>
 </table>
 
@@ -114,31 +114,31 @@ We show the results under different motion strength. It is evident that as the m
     <th width=25% style="text-align:center">MS=600</th>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_0.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_0.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_1.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_1.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_2.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_2.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_3.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_3.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_4.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_4.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_5.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_5.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_6.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_6.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_7.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_7.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/pixel/range_8.gif"></td>
+    <td colspan="4" ><img src="assets/pixel/range_8.gif"></td>
   </tr>
 </table>
 
@@ -157,16 +157,16 @@ We present some preliminary results on another base model. Although we are not y
     <th width=25% style="text-align:center">Rotate</th>
   </tr>
   <tr>
-    <td colspan="1" ><img src="gif/pixel/seaweed_pan.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_zoom.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_tilt.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_rotate.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_pan.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_zoom.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_tilt.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_rotate.gif"></td>
   </tr>
   <tr>
-    <td colspan="1" ><img src="gif/pixel/seaweed_pan2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_zoom2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_tilt2.gif"></td>
-    <td colspan="1" ><img src="gif/pixel/seaweed_rotate2.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_pan2.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_zoom2.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_tilt2.gif"></td>
+    <td colspan="1" ><img src="assets/pixel/seaweed_rotate2.gif"></td>
   </tr>
 </table>
 
@@ -177,16 +177,16 @@ Some representative examples are illustrated below. Our method successfully clas
 
 <table>
   <tr>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+26357585.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+45636767.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+101776714.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+106529640.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+26357585.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+45636767.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+101776714.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+106529640.gif"></td>
   </tr>
   <tr>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+193535445.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+141908344.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+185810975.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+195560416.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+193535445.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+141908344.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+185810975.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+195560416.gif"></td>
   </tr>
 </table>
 
@@ -194,10 +194,10 @@ As suggested by the reviewer, we specifically selected some examples featuring l
 
 <table>
   <tr>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+37280830.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+40120911.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+40736998.gif"></td>
-    <td colspan="1" ><img src="gif/motion_mask/123RF+packed_2+m0_000000+110499692.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+37280830.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+40120911.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+40736998.gif"></td>
+    <td colspan="1" ><img src="assets/motion_mask/123RF+packed_2+m0_000000+110499692.gif"></td>
   </tr>
 </table>
 
