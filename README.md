@@ -145,10 +145,6 @@ The following samples contain combinations of multiple camera movements.
     <th width=20% style="text-align:center">Ours</th>
   </tr>
   <tr>
-    <th width=20% style="text-align:center">move left + pan right + move up + tilt down</th>
-    <td colspan="4" ><img src="assets/pixel/20241002002519.gif"></td>
-  </tr>
-  <tr>
     <th width=20% style="text-align:center">move left + pan right</th>
     <td colspan="4" ><img src="assets/pixel/20240906132533.gif"></td>
   </tr>
